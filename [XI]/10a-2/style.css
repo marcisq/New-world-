@@ -1,0 +1,13 @@
+
+#photo-container {
+    display: grid;
+    width: 30%;
+    grid-template-columns: repeat(auto-fit, min(150px));
+  }
+  #maincontainer {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px 100px;
+    gap: 5px;
+}
+
