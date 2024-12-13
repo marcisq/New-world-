@@ -1,3 +1,4 @@
+<body><link rel="stylesheet" href="style.css"></body>
 #maincontainer {
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
