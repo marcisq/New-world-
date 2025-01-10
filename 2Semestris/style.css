@@ -1,0 +1,55 @@
+.active{
+    background-color: rgb(123, 175, 183);
+     font-weight:bold ;
+    }
+    
+    
+    #Tasks_container{
+        display:grid ;
+        grid-template-columns:1fr 2fr 1fr;
+         grid-template-rows:repeat(3,150px);
+    }
+    
+    .Task{
+    border:1px solid black;
+    
+    }
+    .Task_date{
+        border:1px solid black;
+    }
+    .Task_description{
+        border:1px solid black;
+    }
+    .Task_preview{
+        border:1px solid black;
+    }
+    
+    
+    
+    
+    .active{
+    background-color: rgb(134, 185, 187);
+     font-weight:bold ;
+    }
+    
+    
+    #Tasks_container{
+        display:grid ;
+        grid-template-columns:1fr 2fr 1fr;
+         grid-template-rows:repeat(3,150px);
+    }
+    
+    .Task{
+    border:1px solid black;
+    
+    }
+    .Task_date{
+        border:1px solid black;
+    }
+    .Task_description{
+        border:1px solid black;
+    }
+    .Task_preview{
+        border:1px solid black;
+    }
+    
