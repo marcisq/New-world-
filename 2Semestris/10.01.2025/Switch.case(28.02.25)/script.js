@@ -142,3 +142,4 @@ switch(m)
     console.log("Lielbritānijas mārciņa");
     break;
    }
+    
